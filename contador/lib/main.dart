@@ -38,7 +38,7 @@ class _MyPageState extends State<MyPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Contador do aLx'),
+        title: Text('Contador do Alexandre'),
         centerTitle: true,
         backgroundColor: Colors.red,
       ),
